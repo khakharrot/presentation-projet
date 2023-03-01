@@ -1,0 +1,9 @@
+Voici une petite présentation de mon projet de site web "Manga-K.A":
+
+Mon projet est une bibliothèque qui va contenir une liste de mangas que les utilisateurs pourront parcourir pour trouver de nouveaux mangas à lire selon un genre spécifique ou avoir des informations par rapport à un mangas dont ils ont entendu parler.
+
+Les utilisateurs pourront aussi ajouter de nouvelles entrées à la liste de mangas en les marquant par un genre, laisser des commentaires ainsi que donner une note aux mangas.
+
+Chaque manga dans la liste aura un nom, classifié par un (des) genre(s), des images, le nombre de chapitres publiés et le nom de l'auteur.
+
+En espérant ne rien avoir omis dans la présentation.
